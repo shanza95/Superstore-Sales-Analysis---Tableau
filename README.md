@@ -17,3 +17,18 @@ The dashboard provides a clear breakdown of sales and profit across different re
 - Total Orders: 5,009
 - Profit Margin: 12.47%
 - Average Order Value: 229.9
+
+## Visualization
+
+**1. Sales Trend Over Time**
+
+    
+**2. Sales & Profit by State**
+
+
+**3. Profit by Category & Sub-Category**
+
+
+**4. Top 10 Products by Sales**
+
+
