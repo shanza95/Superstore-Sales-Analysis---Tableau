@@ -43,7 +43,19 @@ Takeaways:
   
 **2. Sales & Profit by State**
 
+The filled map shows the variation in sales and profit across different states.
 
+**Top-performing States:**
+
+- California leads with £457k in sales and £76k in profit.
+- New York also performs strongly with £310k in sales and £74k in profit.
+- Washington shows good results with £138k in sales and £33k in profit.
+
+**Low-performing States:**
+
+Texas and Pennsylvania have moderate sales (£170k and £116k) but show negative profit (-£25.7k and -£15.6k), indicating costs or discounts may be affecting profitability.
+
+The States who experienced negative profits are: Texas, Ohio, Pennsylvania, Illinois, North Carolina, Colorado, Tennessee, Arizona, Florida, Oregon. Even if some of these states had moderate sales, costs or low margins caused them to lose money. These states may need review of pricing, promotions, or cost management to improve profitability.
 
 **3. Profit by Category & Sub-Category**
 The profit analysis across sub-categories shows a mix of strong performers and a few loss-making areas.
@@ -74,6 +86,7 @@ Takeaways:
 
 
 **4. Top 10 Products by Sales**
+
 The bar chart highlights that technology and high-end office equipment dominate the top-selling products, showing strong demand for specialised, higher-priced items within the Superstore product range.
 
 The best-selling product is the **Canon ImageCLASS 2200 Advanced**, generating £61k in sales, making it the clear leader in the dataset.
@@ -81,3 +94,50 @@ The best-selling product is the **Canon ImageCLASS 2200 Advanced**, generating �
 The second highest is the Fellowes PB500 Electric Punch Plastic Comb Binding Machine, with sales of £27,453, followed by the Cisco TelePresence System, which brought in around £22k. The HON 5400 Series also performed well with £21,871 in sales.
 
 Other top-performing items include the GBC DocuBind TL300, which achieved £19,823, along with several other office and technology products that continue the trend of high-value equipment driving the majority of total sales.
+
+**5. Lowest Selling Products**
+
+The bar chart highlights the bottom 10 products by sales. The lowest-selling product is the Eureka Disposable Bags for Sanitaire Vibra Groomer, with sales of only £1,624. The second lowest-selling product is Avery 5, generating £5,760, followed by Xerox 20 with £6,480 in sales. The remaining products in this group also have relatively low sales, contributing minimally to overall revenue.
+
+## Conclusion
+
+The analysis of Superstore sales shows clear seasonal patterns, category-level performance differences, and regional variations in profitability:
+
+**Sales Trends:** All categories (Furniture, Office Supplies, Technology) show a February low, steady growth mid-year, and strong peaks in the last four months. Technology shows the most consistent growth, with a peak in November.
+
+**Profit by Category/Sub-Category:** Technology drives the highest profits, especially Copiers, Phones, and Accessories. Furniture and Office Supplies have mixed results, with some sub-categories (Tables, Bookcases, Supplies) generating losses.
+
+**Top and Lowest Selling Products:** High-value technology and office equipment dominate top sales, while products like Eureka Disposable Bags and low-volume office supplies generate minimal sales.
+
+**Sales & Profit by State:** Profits are concentrated in large states like California and New York, while smaller states or certain mid-sized states (Texas, Ohio, Pennsylvania) face losses despite moderate sales.
+
+## Recommendations
+
+1. **Inventory & Promotions:**
+
+- Prepare for seasonal peaks in March–April and September–December.
+- Increase stock of top-selling and high-profit products, especially technology items.
+
+2. **Improve Low-Profit Areas:**
+
+Review loss-making sub-categories (Tables, Bookcases, Supplies) for pricing, cost reduction, or promotional strategies.
+
+3. **Targeted Regional Strategy:**
+
+- Focus on high-profit states for growth and maintain strong marketing in low-performing states to improve profitability.
+- Consider adjusting pricing, promotions, or inventory for loss-making regions like Texas, Ohio, and Pennsylvania.
+
+4. **Product Strategy:**
+
+- Highlight top-selling and high-margin products in promotions.
+- Evaluate lowest-selling products for discontinuation, bundling, or special offers to boost sales.
+
+5. **Technology Focus:**
+
+- Leverage the strong performance of Technology products to drive overall profit growth.
+- Consider targeted campaigns for Phones, Copiers, and Accessories.
+
+## Appendices
+- Excel/CSV as data source
+- Tableau for Visualization
+- GitHub for version control
