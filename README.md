@@ -4,7 +4,7 @@
 ## Insights
 - The relevant dataset can be accessed [here](Datasets)
 - An interactive dashboard can be downloaded through the link provided [here](Superstore%20Sales%20Dashboard.twbx).
-- In case, you don't prefer the download of Dashboard, click [here](https://public.tableau.com/app/profile/shanza.saleem/viz/SuperstoreSalesDashboard_17526473740710/Dashboard) for an overview dashboard or [here](https://public.tableau.com/app/profile/shanza.saleem/viz/SuperstoreSalesDashboard2_17650408819880/Dashboard2) for a detailed version  on Tableau Public.
+- In case, you don't prefer the download of Dashboard, click [here](https://public.tableau.com/app/profile/shanza.saleem/viz/SuperstoreSalesDashboard_17526473740710/Dashboard1) for an overview dashboard or [here](https://public.tableau.com/app/profile/shanza.saleem/viz/SuperstoreSalesDashboard2_17650408819880/Dashboard2) for a detailed version  on Tableau Public.
 
 ## Project Overview
 This project uses Tableau to explore and visualize sales performance from the popular Superstore dataset. The goal was to identify trends, spot problem areas, and create an interactive dashboard that gives a clear overview of how the business is doing.
